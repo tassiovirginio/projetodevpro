@@ -14,7 +14,7 @@ Copyright 2017 - Tássio Guerreiro Antunes Virgínio
   - Banco de Dados (MySQL, HSQLDB)
 
 - Instalarção/Run
-  - git clone git@bitbucket.org:tassiovirginio/projetodevpro.git
+  - git clone git@github.com:tassiovirginio/projetodevpro.git
   - cd projetodevpro
   - mvn jetty:run
 
